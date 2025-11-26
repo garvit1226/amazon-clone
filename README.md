@@ -20,7 +20,8 @@ This project focuses on layout structuring, responsive design basics, and UI sty
 ---
 
 ## 📸 Preview
-<img width="1920" height="1080" alt="output" src="https://github.com/user-attachments/assets/276e031a-cd5d-4494-8571-0c8700861085" />
+![Preview](https://github.com/user-attachments/assets/b7d98459-72a3-4c23-8b68-b1daff65ef2c)
+
 
 
 ---
