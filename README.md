@@ -19,6 +19,12 @@ This project focuses on layout structuring, responsive design basics, and UI sty
 
 ---
 
+## 📸 Preview
+<img width="1920" height="1080" alt="output" src="https://github.com/user-attachments/assets/276e031a-cd5d-4494-8571-0c8700861085" />
+
+
+---
+
 ## 💡 How to Run
 1. Clone the repository:
 2. Open `index.html` in any browser.
